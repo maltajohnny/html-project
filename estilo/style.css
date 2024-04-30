@@ -62,7 +62,7 @@ header > p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    padding-bottom: 30%;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px  rgba(0, 0, 0, 0.288);
 }
 
@@ -92,7 +92,7 @@ main{
     max-width: 800px;
     margin: auto;
     margin-bottom: 30px;
-    padding: 20px;
+    padding: 20px 0px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.507);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
